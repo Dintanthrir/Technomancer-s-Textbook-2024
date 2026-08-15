@@ -110,7 +110,7 @@ _Watery sphere_
 Starting at 3rd level, you can begin weaving and shaping the elements of the world around you. Choose to learn one of the following cantrips: control flames, gust, mold earth, or shape water. You can choose an additional cantrip from this list at 6th, 11th, and 17th level. These cantrips don't count against your number of cantrips known.
 
 #### FOCUSED CHAOS
-At 3rd level, you can spend 1 ki point to cast a cantrip from your primal forces spell list or your Elemental Bond as a bonus action.
+At 3rd level, you can spend 1 Focus Point to cast a cantrip from your primal forces spell list or your Elemental Bond as a bonus action.
 
 #### PRIMAL MARTIAL ARTS
 At 6th level, your familiarity with the elements allows you to wield them as an extension of your limbs. When you take the Attack action on your turn, you can choose to have your unarmed strikes deal cold, fire, thunder, or bludgeoning damage (your choice for each attack). When you do so, your reach with your unarmed strikes increases by 10 feet until the end of your turn.
@@ -121,10 +121,10 @@ Starting at 6th level, when you cast a primal forces spell of 1st-level or highe
 At 11th level, you can cast spells two levels higher than the spell slot you expend, and at 17th level, you can cast spells three levels higher than the spell slot you expend.
 
 #### CHANNEL PRIMEVAL POWER
-At 11th level, blending martial arts and primal powers comes second nature to you. Immediately after you take the Attack action on your turn, you can use a bonus action to cast a primal forces spell of 1st level or higher by spending ki equal to the level of the spell slot expended.
+At 11th level, blending martial arts and primal powers comes second nature to you. Immediately after you take the Attack action on your turn, you can use a bonus action to cast a primal forces spell of 1st level or higher by spending Focus Points equal to the level of the spell slot expended.
 
 #### HARNESS ELEMENTS
-At 17th level, your mastery of the elements allows you to traverse them unhindered. As a bonus action, you can spend up to 4 ki points to gain a number of the following benefits of your choice for 10 minutes. The amount of benefits you can choose equals the number of ki points you spent.
+At 17th level, your mastery of the elements allows you to traverse them unhindered. As a bonus action, you can spend up to 4 Focus Points to gain a number of the following benefits of your choice for 10 minutes. The amount of benefits you can choose equals the number of Focus Points you spent.
 
 **Air.** You have a flying speed equal to your walking speed.
 
