@@ -69,11 +69,11 @@ The vehicle has a flying speed of 50 feet. The vehicle can fly for up to 10 minu
 #### MAGIC ITEMS PLANS
 | MAGIC ITEM        | ARTIFICER LEVEL | ATTUNEMENT |
 |:------------------|:---------------:|:----------:|
-|Arcane Boosters    | 10              |  No        |
-|Bandolier of booms |  6              | Yes        |
-|Flack Barrier      |  6              |  No        |
-|Monster ball       |  6              |  No        |
-|Radical skateboard | 10              | Yes        |
-|Roulette revolver  | 10              | Yes        |
-|Static weapon      |  2              | Yes        |
-|Vape of winds      |  2              | Yes        |
+|Arcane Boosters    | 10+             |  No        |
+|Bandolier of booms |  6+             | Yes        |
+|Flack Barrier      |  6+             |  No        |
+|Monster ball       |  6+             |  No        |
+|Radical skateboard | 10+             | Yes        |
+|Roulette revolver  | 10+             | Yes        |
+|Static weapon      |  2+             | Yes        |
+|Vape of winds      |  2+             | Yes        |
