@@ -13,13 +13,13 @@
 
 **Data Drive.** A small, concealable data storage device that can hold a surprisingly large amount of information. 
 
-**Fire Extinguisher.** The extinguisher has 10 charges. As an action, 1 to 3 charges can be used to extinguish an equal number of burning creatures, objects, or vehicles within 10 feet. It can also extinguish a 5-foot area of fire.
+**Fire Extinguisher.** The extinguisher has 10 charges. As a Utilize action, 1 to 3 charges can be used to extinguish an equal number of burning creatures, objects, or vehicles within 10 feet. It can also extinguish a 5-foot area of fire.
 
 **Flashlight.** Requires a free hand and a bonus action to turn on or off. When activated, this flashlight casts bright light in a 60-foot cone and dim light for an additional 60 feet. Alternatively, you can use the low-light setting, shining bright light in a 30-foot cone and dim light for an additional 30 feet.
 
-**Gas Mask.** As an action you can don or doff this gas mask. While wearing the mask, you are immune to inhaled toxins, diseases, and poisons. You have disadvantage on Wisdom (Perception) checks while wearing the mask.
+**Gas Mask.** As a Utilize action you can don or doff this gas mask. While wearing the mask, you are immune to inhaled toxins, diseases, and poisons. You have disadvantage on Wisdom (Perception) checks while wearing the mask.
 
-**Grapple Gun.** As an action, you can launch a grappling hook and cable up to 100 feet. It can be used to reel or give slack, allowing the user to climb up or down the length of the cable at the user’s full movement speed. Requires a free hand to use. The cable can support up to 5,000 lb. of weight.
+**Grapple Gun.** As a Utilize action, you can launch a grappling hook and cable up to 100 feet. It can be used to reel or give slack, allowing the user to climb up or down the length of the cable at the user’s full movement speed. Requires a free hand to use. The cable can support up to 5,000 lb. of weight.
 
 **Hazmat Suit.** This suit makes you immune to airborne and waterborne toxins, poisons, diseases, and radiation. It has its own internal air purifier, allowing the user to breathe in hazardous environments indefinitely. This suit also counts as wearing a thin sheet of lead. A small swarm of internal nanobots can quickly seal small punctures or cuts.
 
@@ -33,9 +33,9 @@ If these cuffs are used to bind a creature, and the creature casts a spell using
 
 **Metal Detector.** A small, hand-held device for detecting metal on creatures and in the ground. You can use this device to gain advantage on Intelligence (Investigation) checks to search for metal objects or equipment.
 
-**Night Vision Goggles.** As an action or a bonus action, you can equip or unequip these night vision goggles. While wearing these goggles, you have darkvision out to a range of 60 feet, and you have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in bright light.
+**Night Vision Goggles.** As a Utilize action or a bonus action, you can equip or unequip these night vision goggles. While wearing these goggles, you have darkvision out to a range of 60 feet, and you have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in bright light.
 
-**Quick-Deploy Parachute.** This pouch must be worn on the exterior of any clothes or armor to be used. After falling at least 200 feet, you can use your reaction to deploy the parachute. Your rate of descent slows to 60 feet per round until you land. While the parachute is deployed, your movement speed is halved as it drags behind you. The parachute requires 10 minutes to fold back into its pouch, or you can unhitch it from yourself as an action or a bonus action.
+**Quick-Deploy Parachute.** This pouch must be worn on the exterior of any clothes or armor to be used. After falling at least 200 feet, you can use your reaction to deploy the parachute. Your rate of descent slows to 60 feet per round until you land. While the parachute is deployed, your movement speed is halved as it drags behind you. The parachute requires 10 minutes to fold back into its pouch, or you can unhitch it from yourself as a Utilize action or a bonus action.
 
 **RC Drone.** This remote control drone is great for hobbyists, surveillance operations, and voyeurs alike. The drone has a camera, a microphone, and a wireless control system. The RC drone’s statistics can be found below.
 
@@ -76,8 +76,8 @@ Typical features of a smartphone include:
 - Mobile gaming
 - An endless variety of apps and programs for download
 
-**Spike Strip.** As an action, these camouflaged unfolding spike rails can be deployed in a line 25 feet long and 1 foot wide. If a vehicle with tires enters this line, the vehicle takes 2d4 piercing damage and its speed is halved until its tires are repaired.
-Any creature that can’t see the area at the time the spike strip is deployed must make a DC 15 Wisdom (Perception) check to see the spikes. As an action, the spikes can be recovered.
+**Spike Strip.** As a Utilize action, these camouflaged unfolding spike rails can be deployed in a line 25 feet long and 1 foot wide. If a vehicle with tires enters this line, the vehicle takes 2d4 piercing damage and its speed is halved until its tires are repaired.
+Any creature that can’t see the area at the time the spike strip is deployed must make a DC 15 Wisdom (Perception) check to see the spikes. As a Utilize action, the spikes can be recovered.
 
 **Swift-Draw Holster.** This spring-loaded holster makes it quicker to pull your firearms in a pinch. You can draw or stow two light one-handed firearms when you would normally be able to draw or stow only one, provided both are carried in a swift-draw holster.
 

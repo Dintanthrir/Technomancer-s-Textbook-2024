@@ -147,14 +147,14 @@ _Tier 2, 3, or 4_
 
 This cyberware allows your skin to expel clouds of nanoparticles that refract light away from you, making you seem invisible to the casual observer. At higher tiers, the nanoparticles can follow and mask you in fast-paced combat.
 
-**Tier 2.** As an action, you can turn invisible. Anything you are wearing or carrying is invisible with you. The invisibility ends if you attack or cast a spell. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 500 feet. After moving 500 feet, the cyberware ceases to function.
+**Tier 2.** As a Magic action, you can turn invisible. Anything you are wearing or carrying is invisible with you. The invisibility ends if you attack or cast a spell. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 500 feet. After moving 500 feet, the cyberware ceases to function.
 For every uninterrupted period of 2 hours the cyberware goes unused, it regains 100 feet of movement. While this cyberware is active and you are damaged, or you stand in an area with strong wind, the cyberware ceases to function until the end of your next turn.
 
-**Tier 3.** As an action, you can turn invisible. Anything you are wearing or carrying is invisible with you. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 1,000 feet. After moving 1,000 feet, the cyberware ceases to function.
+**Tier 3.** As a Magic action, you can turn invisible. Anything you are wearing or carrying is invisible with you. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 1,000 feet. After moving 1,000 feet, the cyberware ceases to function.
 
 For every uninterrupted period of 2 hours the cyberware goes unused, it regains 200 feet of movement. While this cyberware is active and you are damaged, or you start your turn in an area with strong wind, the cyberware ceases to function until the end of your next turn.
 
-**Tier 4.** As an action or bonus action, you can turn invisible. Anything you are wearing or carrying is invisible with you. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 1,000 feet. After moving 1,000 feet, the cyberware ceases to function.
+**Tier 4.** As a Magic action or bonus action, you can turn invisible. Anything you are wearing or carrying is invisible with you. While you are invisible, when you move, deduct your movement from the cyberware’s maximum distance of 1,000 feet. After moving 1,000 feet, the cyberware ceases to function.
 
 For every uninterrupted period of 2 hours the cyberware goes unused, it regains 200 feet of movement.
 
@@ -228,7 +228,7 @@ When this cyberware is installed, choose one of the following damage types and c
 
 **Thunder.** The saving throw for this damage type is Constitution. Vehicles and creatures made out of inorganic material have disadvantage on saving throws caused by this cyberware.
 
-As an action, you can use a free hand to launch a burst in one the following patterns: in a cone, in a 5-foot wide line, or in a sphere at a point you can see within 120 feet of you. Each target in the area must succeed on a saving throw based on the damage type. On a successful save, they receive half damage.
+As a Magic action, you can use a free hand to launch a burst in one the following patterns: in a cone, in a 5-foot wide line, or in a sphere at a point you can see within 120 feet of you. Each target in the area must succeed on a saving throw based on the damage type. On a successful save, they receive half damage.
 
 The tier of this cyberware determines the amount of damage it deals, its saving throw DC, how many charges it has, and how many charges it regains at dawn. It also determines the maximum size of the burst you can create, with each larger burst size requiring additional charges expended. For example, with a Tier 2 elemental emitter, you can expend 1 charge to create a 30-foot line, or 2 charges to create a 60-foot line.
 
@@ -251,7 +251,7 @@ The tier of this cyberware determines the amount of damage it deals, its saving 
 #### EMP PROJECTOR
 _Tier 2_
 
-This cyberware has 10 charges. As an action, you can spend 1 or more charges to cause machines within 30 feet of you to cease to function, and to suppress wireless and radio connections within a 100-foot-radius of you. This effect lasts for a number of minutes equal to the amount of charges you spent.
+This cyberware has 10 charges. As a Magic action, you can spend 1 or more charges to cause machines within 30 feet of you to cease to function, and to suppress wireless and radio connections within a 100-foot-radius of you. This effect lasts for a number of minutes equal to the amount of charges you spent.
 
 Alternatively, as a bonus action, you can spend 2 charges to attempt to disrupt a construct or vehicle you can see within 100 feet of you. Constructs with the Electronics feature targeted by this cyberware must succeed on a DC 15 Constitution saving throw or they are stunned until the end of your next turn. On a successful save, this stunning effect ends. A vehicle targeted by this cyberware must succeed on a DC 15 Constitution saving throw or its movement speed is reduced to 0 and it can’t take actions or reactions until the end of your next turn.
 
@@ -339,7 +339,7 @@ When you take poison damage, you can use your reaction to flush your system, neg
 #### INTEGRATED GRAPPLE GUN
 _Tier 1_
 
-You have a grappling hook launcher implanted into your arm. As an action or a bonus action you can launch a grappling hook and cable up to 200 feet. It can be used to reel or give slack, allowing the user to climb up or down the length of the cable at the user’s walking movement speed. Requires a free hand to use. Can support up to 5,000 lb. of weight.
+You have a grappling hook launcher implanted into your arm. As a Utilize action or a bonus action you can launch a grappling hook and cable up to 200 feet. It can be used to reel or give slack, allowing the user to climb up or down the length of the cable at the user’s walking movement speed. Requires a free hand to use. Can support up to 5,000 lb. of weight.
 
 In addition, you can use a free hand to make a special ranged attack against a creature you can see within 30 feet of you. If you’re able to make multiple attacks with the Attack action, this attack replaces one of them. If the target is a creature your size or smaller, you can make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use) to pull it next to you and grapple it. If there is no open adjacent space, then the creature stops in the nearest available open space and is not grappled. Alternatively, if the target is larger than you, you can choose to be pulled to it. However, this does not grapple it.
 
@@ -367,7 +367,7 @@ _Tier 2_
 
 This bioware involves an experimental gene treatment which injects DNA code from a species of creatures which mimic the forms of objects for camouflage.
 
-As an action, you can take on a mimic form, transforming into the shape of an object of your size or smaller, but you must be at least six inches in width or length and weigh no more than your current weight. While in mimic form, you can’t speak or take any actions other than returning to your normal form as an action, but your senses are unchanged. Your gear melds into your new form. You can’t use, wield, or otherwise benefit from any of your equipment. Your form does not function as the object you mimic, and if you are touched, you feel organic and fleshy.
+As a Magic action, you can take on a mimic form, transforming into the shape of an object of your size or smaller, but you must be at least six inches in width or length and weigh no more than your current weight. While in mimic form, you can’t speak or take any actions other than returning to your normal form as a Magic action, but your senses are unchanged. Your gear melds into your new form. You can’t use, wield, or otherwise benefit from any of your equipment. Your form does not function as the object you mimic, and if you are touched, you feel organic and fleshy.
 
 While in this form, you have AC 10, 5 hit points, and a speed of 10. The transformation lasts until you take an action to revert to normal form, or until you drop to 0 hit points or die. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
 
@@ -412,7 +412,7 @@ You install a miniature jet turbine inside your body allowing you to move with e
 _Tier 4_
 
 You install a tiny arcane portal in an arm that, when triggered, opens a gateway between the projector and the sun, causing pressurized plasma to pour forth in a brilliant shaped blast.
-The emitter has 10 charges. As an action, you can use a free hand to expend 1 to 3 charges and create a burst in one the following patterns: in a cone, in a line, or in a radius at a point you can see within 300 feet of you. The size of the burst depends on the amount of charges expended.
+The emitter has 10 charges. As a Magic action, you can use a free hand to expend 1 to 3 charges and create a burst in one the following patterns: in a cone, in a line, or in a radius at a point you can see within 300 feet of you. The size of the burst depends on the amount of charges expended.
 
 #### PLASMA PROJECTOR AREA SIZE
 | AREA TYPE | 1 CHARGE | 2 CHARGES | 3 CHARGES |
@@ -460,7 +460,7 @@ You install sensors in your eyes that allow you to see in the dark. If you are m
 
 **Tier 3.** Previous tiers apply. You have blindsight out to a range of 120 feet. You have advantage on Wisdom (Perception) checks that rely on hearing. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you.
 
-**Tier 4.** Previous tiers apply. You have truesight out to a range of 120 feet. In addition, as an action, you gain the ability to see through solid objects (except lead) to a range of 30 feet for 1 minute. During that time, you perceive objects and creatures as transparent outlines. Once you use the cyberware in this manner, you can’t use it again until you finish a short or long rest.
+**Tier 4.** Previous tiers apply. You have truesight out to a range of 120 feet. In addition, as a Magic action, you gain the ability to see through solid objects (except lead) to a range of 30 feet for 1 minute. During that time, you perceive objects and creatures as transparent outlines. Once you use the cyberware in this manner, you can’t use it again until you finish a short or long rest.
 
 #### SUBDERMAL PLATING
 _Tier 1 or 2_
@@ -476,12 +476,12 @@ _Tier 2_
 
 Your internal chemistry is designed to enchant others with pheromones you can release from your skin. In emergencies, you can exude a cloud of pheromones that will leave those around you in a daze. 
 
-As an action, you can target one non-hostile humanoid of your choice within 5 feet of you with your pheromones, forcing it to make a DC 15 Wisdom saving throw. It must breathe air to be affected. If it fails the saving throw, it is charmed by you for one hour or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance.
+As a Magic action, you can target one non-hostile humanoid of your choice within 5 feet of you with your pheromones, forcing it to make a DC 15 Wisdom saving throw. It must breathe air to be affected. If it fails the saving throw, it is charmed by you for one hour or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance.
 
 If a creature's saving throw is successful or the effect ends for it, the creature is immune to your pheromones for the next 24 hours. If the save succeeds by 5 or more, the creature is aware that you attempted to charm it.
 
 You can use this ability a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
-As an action, each creature within 10 feet of you must succeed on a DC 15 Wisdom saving throw or be incapacitated until the end of your next turn. A creature must breathe air to be affected. You can’t use this ability again until you finish a short or long rest.
+As a Magic action, each creature within 10 feet of you must succeed on a DC 15 Wisdom saving throw or be incapacitated until the end of your next turn. A creature must breathe air to be affected. You can’t use this ability again until you finish a short or long rest.
 
 #### WARP CORTEX
 _Tier 3_
@@ -566,7 +566,7 @@ You cannot be disarmed of this weapon, but it can be destroyed or disabled. The 
 
 #### NANITE PIGMENTATION
 You inject nanites into your body which can change the color of areas of your skin at any time. Handy for trying to pass yourself off as a member of a gang or political group if you know they have a signature tattoo. You can also have the nanites light up and mimic LED tattoos.
-As an action, you can alter the tattoos on your body, including erasing them or covering your entire body with a network of tattoos.
+As a Utilize action, you can alter the tattoos on your body, including erasing them or covering your entire body with a network of tattoos.
 
 #### QUICK-FIX INJECTOR
 An easy-use injector is installed in your body that can deliver drugs, potions, or chemicals. Allows the user to use their reaction to inject a dose of any fluid to the user. The user may choose to use this reaction at any time. For example, if the user is shot, they may use their reaction to trigger the injection of a med serum. The user can choose what substance to fill the injector with over the course of a long rest, and the substance is used in the process.
@@ -598,7 +598,7 @@ You can conceal up to 10 pounds of items inside the smuggling compartment. Stand
 #### SYNTH HAIR
 Your hair, or lack of hair, is replaced with synthetic fibers that you have some measure of control over. As bonus action, you can change the look, color, length, and style of your hair. You can make it look and feel like natural hair, metal wire, string, or anything in between. It can be any color, it can have a metallic sheen, or it can even glow with LEDs. It can grow as long as 10 feet, or retract into your head, rendering you bald. You can also have your hair braid, spike, coil, layer, fold, and otherwise shape itself into any hairstyle that you can imagine.
 
-Additionally, as an action, you can use your hair to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or other similar tasks. Your reach for this action is the current length of your hair.
+Additionally, as a Magic action, you can use your hair to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or other similar tasks. Your reach for this action is the current length of your hair.
 
 Your hair can’t attack, activate magic items, or carry more than 5 pounds. If your hair is cut, damaged, or destroyed, it is repaired when you finish a long rest.
 

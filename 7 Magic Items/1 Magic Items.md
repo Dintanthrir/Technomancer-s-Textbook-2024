@@ -118,7 +118,7 @@ The new form lasts for 1 minute, or until you use your bonus action to press the
 
 **Deep Fryer.** This metallic basin of hot oil causes you to take 2d4 fire damage when it appears, and again at the start of each turn you are holding the fryer or the first time you touch it on a turn. As an action, you can throw the hot oil. Each creature in a 15-foot cone must make a DC 15 Dexterity saving throw. A creature takes 8d6 fire damage on a failed save, or half as much damage on a successful one.
 
-**Advertisement.** This viewscreen displays a clip from a sponsored celebrity chef program. It can be used as an action to cast hypnotic pattern, except the spell has a range of 30 feet.
+**Advertisement.** This viewscreen displays a clip from a sponsored celebrity chef program. It can be used as a Magic action to cast hypnotic pattern, except the spell has a range of 30 feet.
 
 **Panini Press.** This hot iron press functions as a magic mace that deals an extra 2d6 fire damage on a hit.
 
@@ -134,9 +134,9 @@ The new form lasts for 1 minute, or until you use your bonus action to press the
 
 **Commercial Grade Pizza Oven.** A Large size wood-fired pizza oven made of gorgeous redstone bricks appears in an unoccupied space of your choice that you can see within 10 feet of you. The oven is lit and blazing hot, and it has a single entrance facing a direction of your choice, which creatures of Medium size or smaller can enter or be pushed into. When a creature enters the oven or starts its turn there, the creature must make a DC 15 Dexterity saving throw. A creature takes 4d8 fire damage on a failed save, or half as much damage on a successful one.
 
-**Pickling Station.** A Medium size pickling station appears in an unoccupied space of your choice that you can see within 10 feet of you. The pickling station includes mason jars, a jar sealer, cucumbers, onions, beets, shredded cabbage, small peppers, plums, and one sealed jar of perfectly pickled goods. The spice rack includes mustard seeds, allspice berries, coriander, pepper falkes, bay leaves, cloves, and ginger. As an action, you can open the sealed jar. The pickled treats inside taste delicious.
+**Pickling Station.** A Medium size pickling station appears in an unoccupied space of your choice that you can see within 10 feet of you. The pickling station includes mason jars, a jar sealer, cucumbers, onions, beets, shredded cabbage, small peppers, plums, and one sealed jar of perfectly pickled goods. The spice rack includes mustard seeds, allspice berries, coriander, pepper falkes, bay leaves, cloves, and ginger. As a Utilize action, you can open the sealed jar. The pickled treats inside taste delicious.
 
-**Silverware Collection.** You have a small cabinet filled to the brim with high quality forks, spoons, and knives. It can be dumped out as an action to cast spike growth, except the spell has a range of 60 feet.
+**Silverware Collection.** You have a small cabinet filled to the brim with high quality forks, spoons, and knives. It can be dumped out as a Magic action to cast spike growth, except the spell has a range of 60 feet.
 
 **Pressure Cooker.** You have a pressure cooker filled with aromatic, delicious smelling food under extreme pressure. The pressure cooker functions as an explosive barrel, except that it immediately takes 1 point of damage when it appears. When the pressure cooker explodes, the tool returns to its normal form.
 
@@ -187,7 +187,7 @@ This weapon has 6 charges. The weapon regains 1d4 + 2 expended charges daily at 
 
 **Shock.** You can spend 1 charge when you hit a vehicle or creature with the Electronics feature to force it to make a DC 13 Constitution saving throw or become stunned until the end of your next turn.
 
-**Pulse.** You can spend 2 charges as an action to unleash its stored energy. Machines, constructs, and vehicles within 30 feet of you are subjected to EMP.
+**Pulse.** You can spend 2 charges as a Magic action to unleash its stored energy. Machines, constructs, and vehicles within 30 feet of you are subjected to EMP.
 
 Machines cease to function for 1 minute. Constructs in the area with the Electronics feature must succeed on a DC 13 Constitution saving throw or they are stunned until the end of their next turn. Vehicles in the area must succeed on a DC 14 Constitution saving throw or their movement speed is reduced to 0 and they can’t take actions or reactions until the end of your next turn.
 

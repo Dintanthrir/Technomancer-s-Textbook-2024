@@ -308,9 +308,9 @@ You summon a spirit that assumes the form of a sentient motorcycle, creating a l
 
 Your motorcycle serves you as a vehicle, both in and out of combat, and you have an instinctive bond with it that allows you to fight as a seamless unit. You are considered proficient with land vehicles while driving your summoned motorcycle, if you were not already. While driving your motorcycle, you can make any spell you cast that targets only you also target your motorcycle.
 
-When the motorcycle drops to 0 hit points, it explodes, leaving behind no physical form. You can also dismiss your motorcycle at any time as an action, causing it to disappear. In either case, casting this spell again summons the same motorcycle, restored to its hit point maximum. While your motorcycle is within 1 mile of you, you can communicate with it telepathically.
+When the motorcycle drops to 0 hit points, it explodes, leaving behind no physical form. You can also dismiss your motorcycle at any time as a Magic action, causing it to disappear. In either case, casting this spell again summons the same motorcycle, restored to its hit point maximum. While your motorcycle is within 1 mile of you, you can communicate with it telepathically.
 
-You can't have more than one motorcycle bonded by this spell at a time. As an action, you can release the motorcycle from its bond at any time, causing it to disappear.
+You can't have more than one motorcycle bonded by this spell at a time.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can summon a sports motorcycle. If you use a spell slot of 4th level or higher, you can summon a warcycle with a flying speed of 140 feet.
 
@@ -370,7 +370,7 @@ This spell allows minor influence over nearby machines and technology. You creat
 - You instantaneously make a harmless shower of sparks or arc of electricity pop out of a device.
 - Choose one machine weighing up to 5 pounds that isn’t being worn or carried. The machine moves up to 20 feet in a direction of your choice.
 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as a Magic action.
 
 #### MUFFLE
 _Cantrip illusion_  
@@ -379,7 +379,7 @@ _Cantrip illusion_
 **Components:** S M (a firearm)  
 **Duration:** 1 minute  
 **Classes:** Artificer, Bard, Wizard  
-You touch a firearm that lacks the blast property and create a small field of silence around its firing mechanisms and muzzle. For the duration, any attacks made with the weapon make no sound. The spell ends if you cast it again or dismiss it as an action.
+You touch a firearm that lacks the blast property and create a small field of silence around its firing mechanisms and muzzle. For the duration, any attacks made with the weapon make no sound. The spell ends if you cast it again or dismiss it as a Magic action.
 
 #### NUKE
 _9th-level evocation_  
@@ -438,7 +438,7 @@ You summon a spirit that assumes the form of a vehicle of your choice, but its c
 
 The vehicle is friendly to you and your companions for the duration. Roll initiative for the vehicle, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the vehicle, it defends itself from hostile creatures but otherwise takes no actions.
 
-When the vehicle drops to 0 hit points, it explodes, leaving behind no physical form. You can also dismiss your vehicle as an action, causing it to disappear and the spell to end.
+When the vehicle drops to 0 hit points, it explodes, leaving behind no physical form. You can also dismiss your vehicle as a Magic action, causing it to disappear and the spell to end.
 
 If your concentration is broken, the vehicle doesn’t disappear. Instead, you lose control of the vehicle. An uncontrolled vehicle can’t be dismissed by you, and it disappears 8 hours after you summoned it. The DM rolls a 1d8 and consults the Uncontrolled Vehicle table to determine the vehicle’s actions.
 

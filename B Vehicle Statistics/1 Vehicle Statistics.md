@@ -1019,7 +1019,7 @@ The average police car is actually quite powerful, made for high-speed chases an
 > **Challenge** 3 (700 XP)  
 > _Explosive Death._ When the car is destroyed, it explodes. Targets within 10 feet of the car must make a DC 13 Dexterity saving throw. A target takes 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.  
 > _Low Center of Gravity._ Whenever the car makes an ability check or saving throw to avoid going prone, it can treat a d20 roll of 9 or lower as an 10.  
-> _Suspect Transport._ The rear seats of the police car are divided from the front seats by a transparent plasteel barrier with an AC of 15 and 40 hit points, providing total cover between the two. The rear doors are locked to prevent exiting. As an action, the driver can deploy tear gas for 1 minute, but only in the back seats.  
+> _Suspect Transport._ The rear seats of the police car are divided from the front seats by a transparent plasteel barrier with an AC of 15 and 40 hit points, providing total cover between the two. The rear doors are locked to prevent exiting. As a Utilize action, the driver can deploy tear gas for 1 minute, but only in the back seats.  
 > Each creature that is completely within the tear gas must make a DC 14 Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw.
 
 ### SMALL JET

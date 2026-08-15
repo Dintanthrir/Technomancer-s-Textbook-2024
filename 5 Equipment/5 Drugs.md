@@ -7,7 +7,7 @@ Of course, modern drugs are often for more than just getting high. There’s a m
 Whatever your poison is, sooner or later it’s going to get its addictive tendrils into you. After all, the dealers, whether they are the shady criminal type or the slickly advertised and legal type, need to keep you coming back for more, and more, and more.
 
 ### CONSUMING DRUGS
-Drugs are addictive substances that grant effects to creatures that consume doses of them. You can consume a dose of drugs as an action or bonus action, and they are typically inhaled, ingested, injected, or applied via a skin patch.
+Drugs are addictive substances that grant effects to creatures that consume doses of them. You can consume a dose of drugs as a Utilize action or bonus action, and they are typically inhaled, ingested, injected, or applied via a skin patch.
 
 Creatures that are immune to being poisoned cannot be affected by drugs. Spells and effects that neutralize a poison can neutralize the effects of a drug, though only powerful magic will be able to release a person from their addiction.
 
@@ -85,7 +85,7 @@ If a creature uses 3 or more doses of drugs within one hour, it begins overdosin
 > After selling out his contact, the character gets a few doses of nameless. On consuming a dose, the withdrawal is removed, as is their exhaustion level. However, their addiction returns to level 2, right back where they started.
 
 ### COMMON DRUG LIST
-Most drugs are easy to procure so long as a drug dealer is available. You can consume drugs as an action or bonus action, and they are typically inhaled, ingested, injected, or applied via a skin patch. Drug prices are per single dose, and they weigh .2 lb. per dose.
+Most drugs are easy to procure so long as a drug dealer is available. You can consume drugs as a Utilize action or bonus action, and they are typically inhaled, ingested, injected, or applied via a skin patch. Drug prices are per single dose, and they weigh .2 lb. per dose.
 
 | DRUG       | PRICE | ADDICTION SAVING THROW |
 |:-----------|------:|:-----------------------|

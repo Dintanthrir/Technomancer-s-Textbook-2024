@@ -26,7 +26,7 @@ The driver of a vehicle can grant their action, bonus action, and reaction to ha
 
 The driver can also share their movement with the vehicle, allowing both to use their full movement speed. For example, a creature can spend 15 feet of movement to run up to a car, use half their remaining movement to enter the vehicle, and even though they have 0 movement speed left, they can have the vehicle drive its full speed. This is also true if the driver has their movement speed reduced to 0, such as when they are restrained, so long as they can reach the controls. However, if the driver can't move, such as when they are stunned, then they can't share their movement with the vehicle.
 
-A vehicle can only take the Attack, Disengage, Dodge, or Ready actions. This means a vehicle cannot use the Dash action. If a driver has made a vehicle move or take an action, a bonus action, or a reaction, the vehicle cannot do so again until the start of the driver’s next turn. If a vehicle has no driver, the vehicle automatically fails Dexterity saving throws.
+A vehicle can only take the Attack, Disengage, Dodge, or Ready actions. This means a vehicle cannot use the Dash action or use items via the Magic or Utilize actions. If a driver has made a vehicle move or take an action, a bonus action, or a reaction, the vehicle cannot do so again until the start of the driver’s next turn. If a vehicle has no driver, the vehicle automatically fails Dexterity saving throws.
 
 Some vehicles have legendary actions. Vehicles with legendary actions require a driver that is proficient with the vehicle type to drive them, and can only take legendary actions while the vehicle has a proficient driver that is not incapacitated.
 
@@ -352,7 +352,7 @@ Additionally, vehicles that are Huge in size or larger can bear the impact of he
 #### REMOTE CONTROL
 Cameras, microphones, and a wireless control system are installed in the vehicle. A creature with a datajack who can connect to and access the vehicle can wirelessly control it. The vehicle has a wireless range of up to 1,000 feet.
 
-As an action, you can switch to controlling the vehicle as though you were driving it, seeing through the vehicle’s cameras and hearing through its microphones. During this time, you are deaf and blind with regard to your own senses. As an action, you can stop driving and switch back to using your own senses.
+As a Utilize action, you can switch to controlling the vehicle as though you were driving it, seeing through the vehicle’s cameras and hearing through its microphones. During this time, you are deaf and blind with regard to your own senses. As a Utilize action, you can stop driving and switch back to using your own senses.
 
 #### ROCKET THRUSTERS
 _Prerequisite: Land or water vehicle_
@@ -379,7 +379,7 @@ This high octane parallel fueling system can be activated for a short boost of s
 These boosters can’t be used again until the boosters are refueled with 1,000₵ worth of turbo fuel over the course of 1 minute.
 
 #### WINCH
-The vehicle can be attached to a target by a 60 foot metal cable. As an action, the vehicle can reel in the cable. Depending on the size of the target and its state of immobilization, the act may require the vehicle to make a Strength (Athletics) check to pull the target toward the vehicle, or the vehicle toward the target. The winch can also be used to tow objects or vehicles behind the vehicle.
+The vehicle can be attached to a target by a 60 foot metal cable. As a Utilize action, the vehicle can reel in the cable. Depending on the size of the target and its state of immobilization, the act may require the vehicle to make a Strength (Athletics) check to pull the target toward the vehicle, or the vehicle toward the target. The winch can also be used to tow objects or vehicles behind the vehicle.
 
 As an action, the vehicle may launch grappling claws at a target within 60 feet. If the target is the vehicle’s size or smaller, the vehicle can make a contested Strength (Athletics) grappling check to pull it to the vehicle and grapple it. Alternatively, if the target is larger than the vehicle, you can choose for the vehicle to be pulled to it, however, this does not grapple it.
 

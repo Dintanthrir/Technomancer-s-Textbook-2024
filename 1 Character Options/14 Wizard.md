@@ -46,9 +46,9 @@ The programs are presented in alphabetical order.
 
 **Bypass.** When a trap that you are aware of based on technology or magic is triggered within 60 feet of you, you can use your reaction to disable the trap for 1 minute. A trap, for the purpose of this ability, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable. Thus, this ability would disable a security camera, a laser tripwire, or a glyph of warding, but not a camouflaged pitfall or a hunting trap.
 
-**Crash.** As an action, you cause a creature you are aware of in the same network as you to make an Intelligence saving throw. On a failed save, they are ejected from the network and cannot re-enter it for 24 hours.
+**Crash.** As a Magic action, you cause a creature you are aware of in the same network as you to make an Intelligence saving throw. On a failed save, they are ejected from the network and cannot re-enter it for 24 hours.
 
-Alternatively, as an action, you can target an AI-controlled drone or vehicle you can see within 60 feet of you, forcing the AI to make an Intelligence saving throw. On a failed save, the AI loses control over the drone or vehicle for 24 hours.
+Alternatively, as a Magic action, you can target an AI-controlled drone or vehicle you can see within 60 feet of you, forcing the AI to make an Intelligence saving throw. On a failed save, the AI loses control over the drone or vehicle for 24 hours.
 
 **Hijack.** As a bonus action, you can force a vehicle within 60 feet of you that you can see to make a Constitution saving throw. On a failed save, at the start of the driver’s next turn the vehicle must move up to its movement speed in a straight line in a direction of your choice. If the vehicle has no driver, it does so on initiative count 0.
 
@@ -60,7 +60,7 @@ Alternatively, when a vehicle makes an attack roll, a saving throw, or an abilit
 
 **Overload.** As a bonus action, you reduce a Small or smaller machine within 60 feet of you that you can see to 0 hit points and cause targets within 5 feet of it to take lightning damage equal to half your wizard level. The machine cannot be a weapon. If a creature is carrying the machine, it can make an Intelligence saving throw. On a successful save, the machine is unaffected.
 
-**Pulse.** As an action, you cause an EMP at a point you can see within 60 feet of you. Machines, constructs, and vehicles within 30 feet of that point are subjected to EMP. 
+**Pulse.** As a Magic action, you cause an EMP at a point you can see within 60 feet of you. Machines, constructs, and vehicles within 30 feet of that point are subjected to EMP. 
 
 Machines in the area cease to function for 1 minute. Constructs in the area with the Electronics feature must succeed on a Constitution saving throw or they are stunned until the end of your next turn. Vehicles in the area must succeed on a Constitution saving throw or their movement speed is reduced to 0 and they can’t take actions or reactions until the end of your next turn.
 

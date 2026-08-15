@@ -45,10 +45,10 @@ At 10th level, you can ignore the effects of the exhaustion condition until you 
 Additionally, you gain proficiency in Constitution saving throws.
 
 #### CULT OF PERSONALITY
-At 14th level, you can harness the unpredictable and dangerous passion your fandom has for you into a physical manifestation. As an action, you summon a Swarm of Fandom in an unoccupied space you can see within 60 feet of you. It is a swarm of tiny celestial, fey, or fiend creatures (your choice). The swarm disappears when it drops to 0 hit points, or after 1 minute.
+At 14th level, you can harness the unpredictable and dangerous passion your fandom has for you into a physical manifestation. As a Magic action, you summon a Swarm of Fandom in an unoccupied space you can see within 60 feet of you. It is a swarm of tiny celestial, fey, or fiend creatures (your choice). The swarm disappears when it drops to 0 hit points, or after 1 minute.
 
 Roll initiative for the swarm, which has its own turns. When you summon it and on each of your turns thereafter until your concentration ends (as if you were concentrating on a spell), you can issue a verbal command to it as a bonus action, telling it what it must do on its next turn. If you issue no command, it spends its turn pursuing and attacking the nearest creature that has damaged it.
-If you lose concentration, your control of the swarm ends for the rest of the duration, and the swarm spends its turns pursuing and attacking the nearest creatures to the best of its ability. As an action, you can dismiss the swarm, causing it to disappear. Once you use this feature, you must finish a long rest before you can use it again.
+If you lose concentration, your control of the swarm ends for the rest of the duration, and the swarm spends its turns pursuing and attacking the nearest creatures to the best of its ability. As a Magic action, you can dismiss the swarm, causing it to disappear. Once you use this feature, you must finish a long rest before you can use it again.
 
 > #### SWARM OF FANDOMSWARM OF FANDOM
 > _Large swarm of tiny creatures, chaotic neutral_  

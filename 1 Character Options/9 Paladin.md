@@ -27,7 +27,7 @@ You gain oath spells at the paladin levels listed.
 #### CHANNEL DIVINITY
 When you take this oath at 3rd level, you gain the following two Channel Divinity options.
 
-**Bold Proclamation.** You can use your Channel Divinity to captivate your fellow people with your presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes charmed for 10 minutes. The charmed creature has disadvantage on attack rolls, and can repeat this saving throw at the end of each of its turns if it sees a hostile creature, ending the effect on itself on a success. The effect ends for a creature if you damage it.
+**Bold Proclamation.** You can use your Channel Divinity to captivate your fellow people with your presence. As a Magic action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes charmed for 10 minutes. The charmed creature has disadvantage on attack rolls, and can repeat this saving throw at the end of each of its turns if it sees a hostile creature, ending the effect on itself on a success. The effect ends for a creature if you damage it.
 
 **Ambitious Strike.** You can use your Channel Divinity to gamble on a powerful blow. When you would hit with a weapon attack, you can instead use your Channel Divinity to make the attack again, ignoring advantage and disadvantage on the roll. If the attack still hits, it is a critical hit.
 

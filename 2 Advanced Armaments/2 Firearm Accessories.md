@@ -42,7 +42,7 @@ This accessory grants a firearm the scoped property.
 This weapon will explode if anyone other than the registered user attempts to operate it. The creature holding the weapon must make a DC 15 Dexterity saving throw or take 2d8 piercing and 2d8 thunder damage.
 
 #### SILENCER
-You can remove or attach the firearm's silencer as an action. This significantly muffles the sound of gunshots, so that the shot can only be heard from half the weapon’s normal range. While the silencer is attached, a ranged weapon attack with the weapon automatically misses a target beyond the weapon’s normal range.
+You can remove or attach the firearm's silencer as a Utilize action. This significantly muffles the sound of gunshots, so that the shot can only be heard from half the weapon’s normal range. While the silencer is attached, a ranged weapon attack with the weapon automatically misses a target beyond the weapon’s normal range.
 
 #### SLING
 When you drop a firearm, you can instead choose to have it hang by its sling to your body. Only one firearm can hang from a sling at once.

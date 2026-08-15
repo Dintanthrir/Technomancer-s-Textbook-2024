@@ -21,7 +21,7 @@ At 3rd level, you learn an additional spell when you reach certain levels in thi
 #### CHIMERA DRONE
 At 3rd level, you have engineered a robot with synthetic materials, machine parts, and refined oil, then magically infused it with life and sentience. It is friendly to you and your companions, and it obeys your commands. See this creature’s game statistics in the chimera drone stat block. You determine the build and style of the drone and whether it moves on legs, wheels, or treads; your choice has no effect on its game statistics.
 
-In combat, the chimera drone shares your initiative count, but takes its turn immediately after yours. You can also sacrifice one of your attacks when you take the Attack action to command the drone to use its reaction to make an attack instead. If the drone has died within the last hour, you can use your tinker's tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The chimera drone returns to life after 1 minute with all its hit points restored.
+In combat, the chimera drone shares your initiative count, but takes its turn immediately after yours. You can also sacrifice one of your attacks when you take the Attack action to command the drone to use its reaction to make an attack instead. If the drone has died within the last hour, you can use your tinker's tools as a Magic action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The chimera drone returns to life after 1 minute with all its hit points restored.
 
 At the end of a long rest, you can create a new chimera drone if you have your tinker’s tools with you. If you already have a chimera drone from this feature, the first one immediately perishes.
 
@@ -39,7 +39,7 @@ choice.
 
 #### UPGRADE
 At 7th level, you have refined your engineering to improve your drone’s attachments. Each attachment gains its respective additional abilities or effects.
-- **Hacker-Bot.** As an action, the drone can cause an EMP at a point it can see within 60 feet of it. Machines, constructs, and vehicles within 30-foot-radius of that point are subjected to EMP.
+- **Hacker-Bot.** As a Magic action, the drone can cause an EMP at a point it can see within 60 feet of it. Machines, constructs, and vehicles within 30-foot-radius of that point are subjected to EMP.
 Machines in the area cease to function for 1 minute. Constructs in the area with the Electronics feature must succeed on a Constitution saving throw against your spell save DC or they are stunned until the end of your next turn. Vehicles in the area must succeed on a Constitution saving throw against your spell save DC or its movement speed is reduced to 0 and can’t take actions or reactions until the end of the drone’s next turn.
 Additionally, wireless and radio connections within a 100-foot-radius radius of the point are suppressed for 1 minute.
 Once the drone uses this ability, it must finish a short or long rest before it can use it again.

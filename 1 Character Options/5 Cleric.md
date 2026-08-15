@@ -24,7 +24,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### CHANNEL DIVINITY: MEDIATION
 Starting at 3rd level, you can use your Channel Divinity to exchange vital energy in a way that is profitable and beneficial for all.
-As an action, you present your holy symbol, choose up to six willing creatures (which can include yourself) within 30 feet of you. Each creature can spend one or more Hit Dice to cause one other creature affected by this Channel Divinity to regain an equal amount of spent Hit Dice.
+As a Magic action, you present your holy symbol, choose up to six willing creatures (which can include yourself) within 30 feet of you. Each creature can spend one or more Hit Dice to cause one other creature affected by this Channel Divinity to regain an equal amount of spent Hit Dice.
 
 Additionally, until the end of your next turn, each creature can spend a hit die on its turn (no action required) if it is not incapacitated. The creature rolls the Hit Dice and regains hit points equal to the die roll + the creature’s Constitution modifier + your cleric level.
 

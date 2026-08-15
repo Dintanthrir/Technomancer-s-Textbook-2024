@@ -84,7 +84,7 @@ Only one target can be stored at a time, and a creature can make a DC 20 Strengt
 #### ROD OF DISJUNCTION
 _Rod, legendary_
 
-This rod can be used as an action to immediately end any magical effect that you can see within 200 feet of you, or end all magical effects on a creature or object you target within range. This functions similarly to dispel magic, but affects spells and magical effects that cannot normally be affected by dispel magic, such as wall of force or antimagic field, and spells which require a certain spell slot level to be used, such as imprisonment.
+This rod can be used as a Magic action to immediately end any magical effect that you can see within 200 feet of you, or end all magical effects on a creature or object you target within range. This functions similarly to dispel magic, but affects spells and magical effects that cannot normally be affected by dispel magic, such as wall of force or antimagic field, and spells which require a certain spell slot level to be used, such as imprisonment.
 
 Alternatively, it can be used over the course of a minute to remove all magic from a magical item that is not an artifact, causing it to become mundane.
 
@@ -97,7 +97,7 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, and a +2 b
 
 This weapon has 8 charges. It recharges 1d6+2 charges every day at dawn.
 
-As an action, you can spend 1 to 4 charges and point the weapon at a nonmagical object you can see within 60 feet of you that isn't being worned or carried. The object can be of Small size for 1 charge, Medium size for 2 charges, Large size for 3 charges, or Huge size for 4 charges. You decide which direction is gravitationally downward for the object, and if it isn't anchored down, it falls in that direction. The object's gravity returns to normal at the start of your next turn.
+As a Magic action, you can spend 1 to 4 charges and point the weapon at a nonmagical object you can see within 60 feet of you that isn't being worned or carried. The object can be of Small size for 1 charge, Medium size for 2 charges, Large size for 3 charges, or Huge size for 4 charges. You decide which direction is gravitationally downward for the object, and if it isn't anchored down, it falls in that direction. The object's gravity returns to normal at the start of your next turn.
 
 A creature, object, or vehicle that is in the path of the object as it falls must make a DC 18 Dexterity saving throw or take bludgeoning damage according to the Falling Object table. On a successful save, the target takes half damage. The falling object takes an equal amount of bludgeoning damage, but it continues on its path even if destroyed.
 
@@ -111,6 +111,6 @@ If the object hits an object, vehicle, or creature that is one size larger than 
 | Large       | 8d8 bludgeoning  |
 | Huge        | 8d10 bludgeoning |
 
-As an action, you can spend 6 charges and cast reverse gravity (spell save DC 18). Once you do so, you cannot do it again for one week.
+As a Magic action, you can spend 6 charges and cast reverse gravity (spell save DC 18). Once you do so, you cannot do it again for one week.
 
 While you have this weapon in your hand, you can use an action or a bonus action to spend 1 charge and change which direction is gravitationally downward for you, and if you aren't on solid ground, you fall in that direction. Your gravity returns to normal at the start of your next turn.

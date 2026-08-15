@@ -68,13 +68,13 @@ You cannot transfer armor modifications to a different type of armor, such as fr
 > Typically, magic armor cannot be modified without affecting or destroying the enchantment. It may be possible to enchant modified armor, at the DM's discretion, but the process will likely be more difficult and expensive.
 
 #### CAMOUFLAGE GENERATOR
-As an action, you can turn invisible for up to 1 minute. This invisibility fades if you make an attack or cast a spell. You cannot use this modification again until you finish a long rest. This modification cannot be used on an armor with the shield generator.
+As a Magic action, you can turn invisible for up to 1 minute. This invisibility fades if you make an attack or cast a spell. You cannot use this modification again until you finish a long rest. This modification cannot be used on an armor with the shield generator.
 
 #### ENVIRONMENTAL SHIELDING
 When you purchase this modification, you can choose one of the following damage types: acid, cold, fire, or lightning. You gain resistance to this damage type while wearing this armor. You have advantage on saving throws to avoid being irradiated.
 
 #### GLOW
-Neon lights or LEDs of any color are integrated into the armor. As an action, you can shed dim light in a 5-foot radius until you use an action to extinguish it.
+Neon lights or LEDs of any color are integrated into the armor. As a Utilize action, you can shed dim light in a 5-foot radius until you use an action to extinguish it.
 
 As a bonus action, you can shed bright light in a 20-foot radius and dim light for an additional 20 feet for 1 hour, or until you use your bonus action to extinguish the light. Once this modification has been used in this manner, it can’t be used again until you finish a long rest.
 
@@ -82,7 +82,7 @@ As a bonus action, you can shed bright light in a 20-foot radius and dim light f
 Coats the exterior of the armor with a thin layer of gold. Any fabric is replaced with goldweave. Wearing this causes you to look swag as fuck.
 
 #### HOLO-GLAM FABRIC
-Specially installed hologram fibers allow you to spice up your attire in an instant. As an action, you can change the appearance of your clothes or armor to another set of clothing or armor. You decide what it looks like, including color, styles, and accessories. Physical interaction with the hologram reveals it to be false, because things can pass through it.
+Specially installed hologram fibers allow you to spice up your attire in an instant. As a Utilize action, you can change the appearance of your clothes or armor to another set of clothing or armor. You decide what it looks like, including color, styles, and accessories. Physical interaction with the hologram reveals it to be false, because things can pass through it.
 
 #### KINETIC DAMPERS
 If an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.
@@ -93,7 +93,7 @@ Replaces the armor’s heavier parts with plasteel, a tempered plastic. The armo
 #### QUICK-DEPLOY
 When this modification is applied to a suit of armor, the bulk of the armor is broken down into more subtle pieces, such as thick bracelets, a heavy belt, and other chunks secreted under your clothes, which can swiftly be reformed into the full suit of armor. The time it takes to don or doff this armor is 1 action.
 
-When this modification is applied to a shield, it is broken down and compressed into a bracelet that can be worn on the wrist. You can activate this wrist bracelet on your turn and cause it to rapidly expand into a shield (no action required). As an action you can fold it back into its bracelet form.
+When this modification is applied to a shield, it is broken down and compressed into a bracelet that can be worn on the wrist. You can activate this wrist bracelet on your turn and cause it to rapidly expand into a shield (no action required). As a Utilize action you can fold it back into its bracelet form.
 
 For either version of this modification, the weight of the armor does not change.
 

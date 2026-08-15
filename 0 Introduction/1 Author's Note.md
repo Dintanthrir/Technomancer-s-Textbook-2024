@@ -4,6 +4,18 @@
 ## ADAPTER'S NOTE
 In adapting these rules to match the 2024 changes to Dungeons and Dragons Fifth Edition I have tried to keep the changes to a minum and preserve Mogrit's original work and text. 
 
+### CONSIDERATIONS
+
+#### WEAPON MASTERY
+
+The Automatic and Burst properties become very powerful if paired with Push, Graze, or even Topple mastery properties. At the same time their inability to attack at Advantage make Vex less useful with those weapons.
+
+#### ACTIONS
+
+Fighters' Action Surge cannot use the Magic action. Cyberware which replicates spells or has spell-like effects now requires a Magic action specifically.
+
+Vehicles cannot take the Magic or Utilize actions.
+
 ## AUTHOR'S NOTE
 Originally, I had set down a series of rules in a Google Word document for a D&D campaign I was running set in Shadowrun's Amazonia (in Brazil). It started as a series of gun rules that I adapted, followed by vehicle rules, then subclasses, and cybernetics, and so on.
 
