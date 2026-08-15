@@ -1,4 +1,8 @@
 # THE TECHNOMANCER'S TEXTBOOK WAS CREATED BY: MOGRIT
+## Adapted for the 2024 rules by: Jiandi
+
+## ADAPTER'S NOTE
+In adapting these rules to match the 2024 changes to Dungeons and Dragons Fifth Edition I have tried to keep the changes to a minum and preserve Mogrit's original work and text. 
 
 ## AUTHOR'S NOTE
 Originally, I had set down a series of rules in a Google Word document for a D&D campaign I was running set in Shadowrun's Amazonia (in Brazil). It started as a series of gun rules that I adapted, followed by vehicle rules, then subclasses, and cybernetics, and so on.
@@ -24,8 +28,11 @@ hateful monkeys. Your sacrifice will be remembered.
 ## DISCORD
 If you enjoy this book and want to talk about it with others, make suggestions, ask questions, or look for a group to play with others online, you can head over to the Discord channel:
 [TECHNOMANCER'S HIDEOUT](https://discord.gg/YkdhDNvZVy)
-### VERSION 1.5 - FINAL
+### VERSION 1.5 - FINAL (2014 Rules)
 The version log with changes is in the Discord channel.
+
+### VERSION 2.0 (2024 Rules)
+The version log is the github history.
 
 ## DISCLAIMERS
 I have nothing to do with Wizard's of the Coast. I'm just a person with an overly enthusiastic love of D&D and homebrew.
