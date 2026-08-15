@@ -11,14 +11,14 @@ Weapons with special rules are described here.
 **Stun Gun and Shock Baton.** When an attack with this weapon reduces a creature to 0 hit points, they are automatically stabilized. Additionally, when a creature is hit with this weapon, instead of dealing damage, the wielder can choose to cause the target not to be able to take reactions until the start of its next turn.
 
 #### MELEE WEAPONS
-| WEAPON              | COST   | DAMAGE        | WEIGHT | PROPERTIES |
-|:--------------------|-------:|:--------------|-------:|:-----------|
-| **Simple Weapons**  |        |               |        |                                                            |
-| Garrote             |   100₵ | 1d6 slashing  | .5 lb. | Finesse, two-handed, special                               |
-| Stun Gun            |   300₵ | 1d6 lightning | 1 lb.  | Special                                                    |
-| **Martial Weapons** |        |               |        |                                                            |
-| Chainsaw            | 2,500₵ | 2d6 slashing  | 15 lb. | Automatic, heavy, reload (30, action), special, two-handed |
-| Shock Baton         |   800₵ | 1d8 lightning | 2 lb.  | Special                                                    |
+| WEAPON              | COST   | DAMAGE        | WEIGHT | Mastery | PROPERTIES |
+|:--------------------|-------:|:--------------|-------:|:--------|:-----------|
+| **Simple Weapons**  |        |               |        |         |                                                            |
+| Garrote             |   100₵ | 1d6 slashing  | .5 lb. | Sap     | Finesse, two-handed, special                               |
+| Stun Gun            |   300₵ | 1d6 lightning | 1 lb.  | Vex     | Special                                                    |
+| **Martial Weapons** |        |               |        |         |                                                            |
+| Chainsaw            | 2,500₵ | 2d6 slashing  | 15 lb. | Cleave  | Automatic, heavy, reload (30, action), special, two-handed |
+| Shock Baton         |   800₵ | 1d8 lightning | 2 lb.  | Topple  | Special                                                    |
 
 ### MELEE WEAPON MODIFICATIONS
 Modifications allow you to customize your melee weapons to meet your current tactical and environmental operating conditions. For example, you can streamline your weapon for underwater combat, or modify it to collapse for easier concealment, or even attach detonation charges.
