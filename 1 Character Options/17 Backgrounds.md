@@ -10,6 +10,8 @@ You’re a spacer. Whether you were working for a megacorporation, a government 
 
 Perhaps you were an asteroid miner, a farmer, a pilot, or any one of the hundreds of potential jobs on the new frontier. Life was hard, and a single mistake could get you killed out in the vacuum of space, thousands of miles from anyone who could help.
 
+**Ability Scores:** Dexterity, Constitution, Intelligence  
+**Feat:** Skilled  
 **Skill Proficiencies:** Nature, Technology  
 **Tool Proficiencies:** Tinker’s tools, vehicles (air)  
 **Equipment:** A set of traveler’s clothes, a medal, and a credit stick with 1,000₵.  
@@ -63,6 +65,8 @@ Fame waxes and wanes, and those who get a taste for it find it sweet, and addict
 
 Of course, all fame is fickle, and your descent from stardom defines you as much as your ascent. Do you quietly shuffle into obscurity, or do you cling to relevance with the death grip of a drowning man. For the latter, you may decide that there’s ultimately no difference between fame and infamy.
 
+**Ability Scores:** Dexterity, Wisdom, Charisma  
+**Feat:** Lucky  
 **Skill Proficiencies:** Performance, plus one from among Deception, Intimidation, and Persuasion  
 **Tool Proficiencies:** One type of musical instrument  
 **Languages:** One of your choice  
@@ -135,6 +139,8 @@ From atop their steel towers, the suits run a similar game, but they posture and
 
 You may have been a beat cop, a detective, a SWAT officer, or a humble desk jockey. At some point in your career, the time came to look toward justice and the law, or the other way. Perhaps you were offered a bribe, or were pressured by others, but you knew it was time to decide: do you serve the people, or yourself?
 
+**Ability Scores:** Strength, Constitution, Wisdom  
+**Feat:** Tough  
 **Skill Proficiencies:** Insight, plus one from among Intimidation or Perception  
 **Tool Proficiencies:** One from among vehicles (land) or vehicles (water)  
 **Languages:** One of your choice  
@@ -201,6 +207,8 @@ Between fast cars, big guns, powerful drugs, and the steep decline in the value 
 
 Modern medicine has advanced to the point of completely restructuring a person’s face and body, replacing limbs and organs with vat grown tissue, enhancing individuals past their natural limits with cybernetics, and more. Of course, a person’s access to healthcare may depend heavily on their financial situation. The same limits apply to medical professionals, who hold positions that range from underfunded community clinic nurses to the personal physicians of corporate senior executives. A doctor can rise as high as their ambitions, skill, and ruthlessness allow.
 
+**Ability Scores:** Dexterity, Intelligence, Wisdom  
+**Feat:** Healer  
 **Skill Proficiencies:** Medicine, plus one from among Investigation or Nature  
 **Tool Proficiencies:** One from among herbalism kit or alchemist’s supplies  
 **Languages:** One of your choice  
@@ -286,6 +294,8 @@ Business is business, from the fanciest strip malls, to the dirtiest alleyways a
 
 Of course, it doesn’t hurt that your product creates a captive audience, that’s just good business strategy. Better you than some soulless megacorp that wants to stamp out the competition by outlawing your drugs and peddling their own addictive substances.
 
+**Ability Scores:** Dexterity, Constitution, Charisma  
+**Feat:** Alert  
 **Skill Proficiencies:** Medicine, plus one from among Intimidation, Perception, and Persuasion  
 **Tool Proficiencies:** Alchemist’s supplies  
 **Languages:** One of your choice  
@@ -340,6 +350,8 @@ When the international megacorporations expanded until they became more powerful
 
 Like any form of organization, corporate hierarchies take many forms. For some corporations, the corporation is a family business. The sons and daughters of executives are bred and trained for succession, the money passed down the bloodline. For other corporations, promotions are merit- based. Of course, in many cases, ‘merit’ is defined by the most cunning, ruthless, and vicious individuals willing to ascend a staircase of bodies and broken dreams.
 
+**Ability Scores:** Intelligence, Wisdom, Charisma  
+**Feat:** Lucky  
 **Skill Proficiencies:** Insight, plus one from among Persuasion or Deception.  
 **Tool Proficiencies:** None  
 **Languages:** Two of your choice  
@@ -394,6 +406,8 @@ Do you have a scumbag that needs killing? A vault that needs cracking? Illegal p
 
 Freelancers can find work by many means. A smart freelancer will have fixers looking to setup jobs for a small cut, while others may have to advertise their services on digital or physical black markets. It can be dirty, dehumanizing, and often dangerous work, but someone has to do it. Well, maybe some of the crimes you've committed didn't have to be done, but you gotta make a living somehow. 
 
+**Ability Scores:** Strength, Dexterity, Constitution  
+**Feat:** Savage Attacker  
 **Skill Proficiencies:** Choose two from among Deception, Intimidation, Investigation, Perception, Persuasion, Stealth  
 **Tool Proficiencies:** One vehicle proficiency or hacking tools  
 **Languages:** One of your choice  
@@ -476,6 +490,8 @@ The streets of the slums are stained with blood, night after night. The cycle of
 
 For people without family, friends, or hope, a gang can come to take their place. It’s a swift transition from you being recruited into a gang and taught their ways, to you recruiting others and brutally upholding the gang's code. While you might not have a long life expectancy, there’s nothing quite like riding a motorcycle down a road at full speed with your gang at your back.
 
+**Ability Scores:** Strength, Constitution, Charisma  
+**Feat:** Tavern Brawler  
 **Skill Proficiencies:** Athletics, Intimidation  
 **Tool Proficiencies:** One from among vehicles (land) or vehicles (water)  
 **Languages:** One of your choice  
@@ -532,6 +548,8 @@ After all, they're in the middle of grabbing a list of some mid-level manager’
 
 The huddling figure, its head held upright by a cable running from a port in the back of their neck to a wall socket, lets a thin smile cross their face.
 
+**Ability Scores:** Dexterity, Intelligence, Charisma  
+**Feat:** Skilled  
 **Skill Proficiencies:** Investigation, Technology  
 **Tool Proficiencies:** Hacking tools and one type of gaming set  
 **Languages:** None  
@@ -606,6 +624,8 @@ Hackers tend to be detached from the real world, preferring the internet, where 
 ### MECHANIC
 The world is built and run by machines, and the machines are run by you. You are the grease in the vast clockwork that keeps modern society functioning smoothly. Without you, society crumbles to dust. Or someone just hires your replacement. After all, you’re just as replaceable as any piece of equipment.
 
+**Ability Scores:** Strength, Dexterity, Wisdom  
+**Feat:** Crafter  
 **Skill Proficiencies:** Perception, Technology  
 **Tool Proficiencies:** Tinker’s tools and one type of vehicle  
 **Languages:** None  
@@ -674,6 +694,8 @@ Society is corrupt, people are callous and hateful, and the man is always trying
 
 Half the battle is looking the part. Typically, you might wear slick black leather covered in spikes, have flashing LED tattoos all over your body, and wear your bright pink mohawk proudly. Of course, what’s more important is breaking the norms of society and rebelling against the status quo to inspire others. In the heart of every oppressed office drone is the spark of anarchy, just waiting to be kindled.
 
+**Ability Scores:** Strength, Dexterity, Charisma  
+**Feat:** Musician  
 **Skill Proficiencies:** Intimidation, Performance  
 **Tool Proficiencies:** One type of musical instrument  
 **Languages:** One of your choice  
@@ -733,6 +755,8 @@ As a scientist, you are responsible for pursuing knowledge, testing hypotheses, 
 
 Of course, with the pursuit of knowledge comes the rise of ethical dilemmas. Are your experiments legal? Will your work be used as a weapon to harm others? Are you willing to perform dangerous experiments on animals? Or people? Are you willing to ‘play god’? How do you decide where to draw the line?
 
+**Ability Scores:** Strength, Constitution, Intelligence  
+**Feat:** Magic Initiate  
 **Skill Proficiencies:** Choose two from among Arcana, History, Nature, and Technology  
 **Tool Proficiencies:** One type of artisan's tools  
 **Languages:** One of your choice  
@@ -803,6 +827,8 @@ Scientists are defined by their pursuit of knowledge and their innate curiosity 
 ### SEX WORKER
 On neon-lit street corners, in dimly lit brothels, in noisy strip clubs, and in high society lounges, people practice their profession in the carnal arts. You count yourself among their number. In the sleepless cities, there’s always clients in need of comfort, and willing to pay for it. Some might find your line of work shameful, demeaning, or disgusting. Others see it as necessary and beneficial for society. However, many in your position just see it as another job.
 
+**Ability Scores:** Constitution, Wisdom, Charisma  
+**Feat:** Alert  
 **Skill Proficiencies:** Persuasion, plus one from among Insight and Performance  
 **Tool Proficiencies:** One type of gaming set  
 **Languages:** One of your choice  
@@ -879,6 +905,8 @@ Sex workers cater to certain clienteles, and have shaped their appearance and de
 ### STREET SHAMAN
 Shrouded in the mysterious depths of dark alleyways, abandoned subways, and fetid sewer tunnels, there exist underground societies which practice the mystical arts. Street shamans come in many forms. You may be a psychic, a fortune teller, a healer, a witch, or any manner of practitioner of the enigmatic and arcane. While some may find your services dubious at best, and profane at worst, there’s no denying the demand for them exists.
 
+**Ability Scores:** Strength, Wisdom, Charisma  
+**Feat:** Magic Initiate  
 **Skill Proficiencies:** Arcana, Religion  
 **Tool Proficiencies:** One type of artisan's tools  
 **Languages:** One of your choice  
@@ -934,6 +962,8 @@ Observe the modern wage slave. Packed into cubicles, offices, and behind service
 They devote their precious free hours to watching comfortingly bland sitcoms and playing whatever game is most popular before passing out well after they should have gone to bed. They dream of success, of wealth, of fame, and other things they can never have.
 The next day, the cycle begins again.
 
+**Ability Scores:** Constitution, Intelligence, Wisdom  
+**Feat:** Tough  
 **Skill Proficiencies:** Choose two from among Deception, Persuasion, Perception, Sleight of Hand, Stealth, Survival  
 **Tool Proficiencies:** One type of artisan's tools  
 **Languages:** One of your choice  
