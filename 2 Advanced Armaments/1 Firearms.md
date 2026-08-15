@@ -68,26 +68,26 @@ for 1 minute so long as it is not already burning from a flamethrower attack, an
 | Dart Gun                |  1,600₵ | 1d4 piercing                 |  3 lb. | Darts          | Vex     | Ammunition (range 60/240), reload (1 shot), marine                                           |
 | Double-Barreled Shotgun |  2,000₵ | 4d4 piercing                 |  6 lb. | Shells         | Push    | Ammunition (range 60/180), reload (2 shots), scatter, two-handed                             |
 | Hunting Rifle           |  1,700₵ | 3d4 piercing                 |  7 lb. | Bullets        | Slow    | Ammunition (range 150/600), reload (5 shots), scoped, two-handed                             |
-| Machine Pistol          |  1,500₵ | 2d4 piercing                 |  5 lb. | Bullets        | Vex     | Ammunition (range 50/200), automatic, light, reload (10 shots)                               |
-| Pistol                  |  1,000₵ | 2d4 piercing                 |  2 lb. | Bullets        | Nick    | Ammunition (range 70/280), light, reload (10 shots)                                          |
-| Revolver                |  1,200₵ | 2d6 piercing                 |  4 lb. | Bullets        | Sap     | Ammunition (range 70/280), reload (6 shots)                                                  |
+| Machine Pistol          |  1,500₵ | 2d4 piercing                 |  5 lb. | Bullets        | Nick    | Ammunition (range 50/200), automatic, light, reload (10 shots)                               |
+| Pistol                  |  1,000₵ | 2d4 piercing                 |  2 lb. | Bullets        | Sap     | Ammunition (range 70/280), light, reload (10 shots)                                          |
+| Revolver                |  1,200₵ | 2d6 piercing                 |  4 lb. | Bullets        | Vex     | Ammunition (range 70/280), reload (6 shots)                                                  |
 | Sawed-Off Shotgun       |  1,800₵ | 3d4 piercing                 |  5 lb. | Shells         | Push    | Ammunition (range 30/90), reload (2 shots), scatter                                          |
 | Submachine Gun          |  2,500₵ | 2d6 piercing                 |  6 lb. | Bullets        | Slow    | Ammunition (range 50/200), automatic, burst-fire, reload (20 shots), two-handed              |
 | **Martial Firearms**    |         |                              |        |                |         |                                                                                              |
 | Assault Cannon          | 35,000₵ | 2d12 piercing                | 80 lb. | Assault Rounds | Graze   | Ammunition (range 120/480), heavy, reload (10 shots, action), massive, two-handed            |
 | Assault Rifle           |  3,000₵ | 2d6 piercing                 |  7 lb. | Bullets        | Slow    | Ammunition (range 100/400), burst-fire, automatic, reload (20 shots), two-handed             |
-| Auto Shotgun            | 14,000₵ | 3d6 piercing                 | 12 lb. | Shells         | Graze   | Ammunition (range 60/180), automatic, heavy, reload (12 shots, action), scatter, two-handed  |
+| Auto Shotgun            | 14,000₵ | 3d6 piercing                 | 12 lb. | Shells         | Sap     | Ammunition (range 60/180), automatic, heavy, reload (12 shots, action), scatter, two-handed  |
 | Combat Shotgun          |  3,000₵ | 5d4 piercing                 |  7 lb. | Shells         | Push    | Ammunition (range 60/180), reload (8 shots), scatter, two-handed                             |
-| Flamethrower            |  9,000₵ | 2d6 fire                     | 25 lb. | Fuel           | Sap     | Ammunition (60/180), heavy, reload (12 shots, action), two-handed, special                   |
-| Gatling Gun             | 25,000₵ | 2d10 piercing                | 85 lb. | Bullets        | Graze   | Ammunition (range 100/400), automatic, heavy, massive, reload (40 shots, action), two-handed |
+| Flamethrower            |  9,000₵ | 2d6 fire                     | 25 lb. | Fuel           | Graze   | Ammunition (60/180), heavy, reload (12 shots, action), two-handed, special                   |
+| Gatling Gun             | 25,000₵ | 2d10 piercing                | 85 lb. | Bullets        | Slow    | Ammunition (range 100/400), automatic, heavy, massive, reload (40 shots, action), two-handed |
 | Grenade Launcher        | 20,000₵ | 1d8 piercing + 1d8 thunder   | 15 lb. | Grenades       | Topple  | Ammunition (80/320), blast, heavy, reload (6 shots, action), two-handed                      |
-| Light Machine Gun       | 10,000₵ | 2d8 piercing                 | 25 lb. | Bullets        | Graze   | Ammunition (range 100/400), automatic, heavy, reload (30 shots, action), two-handed          |
-| Magnum                  |  3,500₵ | 2d8 piercing                 |  5 lb. | Bullets        | Sap     | Ammunition (range 70/280), reload (8 shots)                                                  |
-| Micro SMG               |  2,800₵ | 2d6 piercing                 |  4 lb. | Bullets        | Vex     | Ammunition (range 50/200), automatic, light, reload (15 shots)                               |
+| Light Machine Gun       | 10,000₵ | 2d8 piercing                 | 25 lb. | Bullets        | Slow    | Ammunition (range 100/400), automatic, heavy, reload (30 shots, action), two-handed          |
+| Magnum                  |  3,500₵ | 2d8 piercing                 |  5 lb. | Bullets        | Vex     | Ammunition (range 70/280), reload (8 shots)                                                  |
+| Micro SMG               |  2,800₵ | 2d6 piercing                 |  4 lb. | Bullets        | Nick    | Ammunition (range 50/200), automatic, light, reload (15 shots)                               |
 | Rocket Launcher         | 15,000₵ | 2d6 piercing + 2d6 thunder   | 20 lb. | Rockets        | Topple  | Ammunition (range 120/480), blast, heavy, reload (1 shot, action), massive, two-handed       |
 | Sniper Rifle            |  8,000₵ | 4d4 piercing                 |  8 lb. | Bullets        | Sap     | Ammunition (range 200/800), heavy, reload (8 shots), scoped, two-handed                      |
-| Spear Gun               |  3,500₵ | 2d10 piercing                |  8 lb. | Harpoons       | Slow    | Ammunition (range 60/240), reload (1 shot), marine, two-handed                               |
-| Thumper                 | 12,000₵ | 1d10 piercing + 1d10 thunder |  6 lb. | Grenades       | Topple  | Ammunition (80/320), blast, reload (1 shot), two-handed                                      |
+| Spear Gun               |  3,500₵ | 2d10 piercing                |  8 lb. | Harpoons       | Vex     | Ammunition (range 60/240), reload (1 shot), marine, two-handed                               |
+| Thumper                 | 12,000₵ | 1d10 piercing + 1d10 thunder |  6 lb. | Grenades       | Sap     | Ammunition (80/320), blast, reload (1 shot), two-handed                                      |
 
 > FragOut: my landlord is ripping me off, my apartment keeps getting smaller and smaller 
 >
