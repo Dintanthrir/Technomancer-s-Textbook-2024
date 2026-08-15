@@ -31,7 +31,7 @@ If a character is proficient in simple or martial weapons, they are proficient w
 Unlike other weapons, you don't add your ability modifier to the damage roll of a firearm unless otherwise stated. If a firearm has more than one damage type, such as the grenade launcher which deals piercing and thunder damage, then the attacker can choose the damage type for extra damage, such as from effects like Sneak Attack.
 
 #### FIREARM TWO-WEAPON FIGHTING
-When you take the Attack action and attack with a light firearm that you're holding in one hand, you can use a bonus action to attack with a different light firearm that you're holding in the other hand.
+Some firearms are Light weapons and can be used to make extra attacks following the rules for Light weapons. Firearms do not add negative ability modifiers to their damage when making these extra attacks.
 
 #### UNDERWATER FIREARMS
 Unless a firearm has the marine property, it must follow the following rules when used underwater.
