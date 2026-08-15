@@ -2,39 +2,7 @@
 Technology, magic, and war have advanced since the old days of launching sharp wooden sticks and lining up a cavalry charge. They have evolved to meet the needs of modern combatants and operators.
 Soldiers and mercenaries have mastered the martial arts of wielding firearms with expertise, specializing their fighting styles to suit their chosen battlefield. Powerful beings can’t help but influence and corrupt every new trend and gadget, and their followers may invoke such powers for their own use. And, of course, there’s nothing that science can develop that can’t be improved by infusing it with magic.
 
-The following are additional fighting styles, warlock invocations, and artificer infusions.
-
-### FIGHTING STYLES
-These additional fighting styles are intended for use with cyberpunk weapons. When any class or subclass chooses a fighting style, the following styles are added to the list of options. The archery fighting style does not affect firearms.
-
-#### AKIMBO
-Once per turn, when you engage in two-weapon fighting, you can perform the two-weapon fighting attack as part of your Attack action instead of as a bonus action. Additionally, you can reload two firearms as an action or bonus action without a free hand, and you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
-
-#### BARRAGE
-When you miss an attack with an automatic weapon, the target takes 2 damage of the weapon’s damage type.
-
-#### CLOSE QUARTERS SPECIALIST
-While you are within 5 feet of a hostile creature of your size or larger, you have half cover against ranged attacks against you. You do not gain this benefit if you are incapacitated. Additionally, being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
-
-#### GRENADIER
-When you make an attack with a blast weapon with which you are proficient, you can choose which targets other than the primary target are affected by the weapon’s blast property.
-
-#### FIREBUG
-When you roll damage for a weapon attack against a burning target, you can reroll the weapon’s damage dice and use either total.
-
-#### POINT BLANK
-When you roll the highest possible number on a weapon damage die for an attack you make with a firearm, you can roll an additional weapon damage die and add it to the result. You can only roll up to two additional damage dice for each attack. You must be within 20 feet of the target of the attack for you to gain this benefit.
-
-#### QUICK DRAW
-You have advantage on initiative rolls. You can draw or stow a number of weapons equal to your proficiency bonus over the course of your turn. If you have a feature that allows you to draw or stow two weapons when you would normally be able to draw or stow only one, you instead can draw or stow a number of weapons equal to your proficiency bonus plus 1 over the course of your turn.
-
-When you draw a weapon, until the end of your next turn, your first hit with that weapon deals an extra 1d4 damage. Once you have gained this bonus with a weapon, you cannot gain this bonus with the same weapon again until you stow it.
-
-#### SNIPER
-When you miss an attack with a ranged weapon, you have advantage on your next attack with a ranged weapon against the same target until the end of your next turn.
-
-#### SUPPRESSION
-The first time you attack a creature with a firearm on your turn, it becomes suppressed until the start of your next turn. If the suppressed target attacks a target other than you or willingly moves 5 feet or more, you can use your reaction to make a weapon attack against it with a firearm.
+The following are additional warlock invocations and artificer infusions.
 
 ### WARLOCK INVOCATIONS
 When you choose eldritch invocations, you have access to the following options.

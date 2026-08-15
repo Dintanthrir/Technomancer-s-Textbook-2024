@@ -1,6 +1,10 @@
 ### FEATS
 For those seeking to specialize further and master a certain skill, technique, or art, these additional feats are available when selecting a feat per the rules in the Player’s Handbook.
 
+### ORIGIN FEATS
+
+### GENERAL FEATS
+
 #### BULLETSTORM
 _General Feat (Prerequisite: Level 4+)_  
 You love raining lead on your foes, flushing them from cover, and making them suffer, gaining the following benefits:
@@ -114,6 +118,46 @@ You have become supernaturally familiar with vehicles of all shapes and sizes, g
 - If a non-sentient vehicle you are driving is subjected to an effect that allows it to make a Dexterity save to take only half damage, it takes no damage if it succeeds and only half damage if it fails.
 - You can control a vehicle without having a free hand for the vehicle’s controls.
 
+### FIGHTING STYLE FEATS
+These additional fighting styles are intended for use with cyberpunk weapons. When any class or subclass chooses a fighting style, the following styles are added to the list of options. The archery fighting style does not affect firearms.
+
+#### AKIMBO
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+Once per turn, when you engage in two-weapon fighting, you can perform the two-weapon fighting attack as part of your Attack action instead of as a bonus action. Additionally, you can reload two firearms as an action or bonus action without a free hand, and you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+
+#### BARRAGE
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+When you miss an attack with an automatic weapon, the target takes 2 damage of the weapon’s damage type.
+
+#### CLOSE QUARTERS SPECIALIST
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+While you are within 5 feet of a hostile creature of your size or larger, you have half cover against ranged attacks against you. You do not gain this benefit if you are incapacitated. Additionally, being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+
+#### GRENADIER
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+When you make an attack with a blast weapon with which you are proficient, you can choose which targets other than the primary target are affected by the weapon’s blast property.
+
+#### FIREBUG
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+When you roll damage for a weapon attack against a burning target, you can reroll the weapon’s damage dice and use either total.
+
+#### POINT BLANK
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+When you roll the highest possible number on a weapon damage die for an attack you make with a firearm, you can roll an additional weapon damage die and add it to the result. You can only roll up to two additional damage dice for each attack. You must be within 20 feet of the target of the attack for you to gain this benefit.
+
+#### QUICK DRAW
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+You have advantage on initiative rolls. You can draw or stow a number of weapons equal to your proficiency bonus over the course of your turn. If you have a feature that allows you to draw or stow two weapons when you would normally be able to draw or stow only one, you instead can draw or stow a number of weapons equal to your proficiency bonus plus 1 over the course of your turn.
+
+When you draw a weapon, until the end of your next turn, your first hit with that weapon deals an extra 1d4 damage. Once you have gained this bonus with a weapon, you cannot gain this bonus with the same weapon again until you stow it.
+
+#### SNIPER
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+When you miss an attack with a ranged weapon, you have advantage on your next attack with a ranged weapon against the same target until the end of your next turn.
+
+#### SUPPRESSION
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+The first time you attack a creature with a firearm on your turn, it becomes suppressed until the start of your next turn. If the suppressed target attacks a target other than you or willingly moves 5 feet or more, you can use your reaction to make a weapon attack against it with a firearm.
 
 > Dozer: at that point I was Trapped hanging upside down from the helicopter, Firing my Lariat-99F back at the drones on our tail and Punching the Senator's security guard with my other hand
 >
