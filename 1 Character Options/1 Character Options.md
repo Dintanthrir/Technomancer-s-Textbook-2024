@@ -19,18 +19,18 @@ The following are just a few examples of class-based character concepts.
 To assist with the creation of your character, this chapter offers cyberpunk themed and setting-neutral subclasses for each of the classes in the Player’s Handbook, as well as the artificer. There are additional class options, which include fighting styles, warlock invocations, and artificer infusions. Finally, there are a set of backgrounds for your characters that are more suited for futuristic society.
 
 #### SUBCLASSES
-| CLASS     | SUBCLASS                 | LEVEL AVAILABLE | DESCRIPTION                                                |
-|:----------|:-------------------------|:---------------:|:-----------------------------------------------------------|
-| Artificer | Mech Pilot               | 3rd             | Pilots a customizable mech to meet any tactical situation  |
-| Barbarian | Street Savage            | 3rd             | A furious heavy weapons expert who accelerates into battle |
-| Bard      | College of Anarchy       | 3rd             | Wields the power of their voice to move you                |
-| Cleric    | Commerce Domain          | 1st             | Trades in goods and gods, and always gets their fair share |
-| Druid     | Circle of Transformation | 2nd             | Transforms into vehicles of all shapes and sizes           |
-| Fighter   | Toxic Avenger            | 3rd             | Driven by the chemical forces of addiction and withdrawal  |
-| Monk      | Way of the Primal Forces | 3rd             | Calls upon the elements and forces of nature               |
-| Ranger    | Drone Master             | 3rd             | Fights alongside their advanced chimera drone              |
-| Rogue     | Saboteur                 | 3rd             | An expert demolitionist who is crazy about bombs           |
-| Sorcerer  | Nuclear                  | 1st             | Mixes magic and radiation in an unstable bond              |
-| Paladin   | Oath of Progress         | 3rd             | Leads and unites their allies swiftly toward their goal    |
-| Warlock   | Fandom                   | 1st             | Leverages their rabid audience for fame and power          |
-| Wizard    | Technomancer             | 2nd             | Bends technology to obey their commands                    |
+| CLASS     | SUBCLASS                 | DESCRIPTION                                                |
+|:----------|:-------------------------|:-----------------------------------------------------------|
+| Artificer | Mech Pilot               | Pilots a customizable mech to meet any tactical situation  |
+| Barbarian | Street Savage            | A furious heavy weapons expert who accelerates into battle |
+| Bard      | College of Anarchy       | Wields the power of their voice to move you                |
+| Cleric    | Commerce Domain          | Trades in goods and gods, and always gets their fair share |
+| Druid     | Circle of Transformation | Transforms into vehicles of all shapes and sizes           |
+| Fighter   | Toxic Avenger            | Driven by the chemical forces of addiction and withdrawal  |
+| Monk      | Way of the Primal Forces | Calls upon the elements and forces of nature               |
+| Ranger    | Drone Master             | Fights alongside their advanced chimera drone              |
+| Rogue     | Saboteur                 | An expert demolitionist who is crazy about bombs           |
+| Sorcerer  | Nuclear                  | Mixes magic and radiation in an unstable bond              |
+| Paladin   | Oath of Progress         | Leads and unites their allies swiftly toward their goal    |
+| Warlock   | Fandom                   | Leverages their rabid audience for fame and power          |
+| Wizard    | Technomancer             | Bends technology to obey their commands                    |

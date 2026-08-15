@@ -7,13 +7,13 @@ Where lovers of nature would give up and abandon these lands for greener pasture
 After all, in worlds both natural and artificial, one rule reigns supreme: survival of the fittest. Where clumsy beasts would be out of their element, druids of this circle shall find themselves at home. Where paw and hoof dare not tread, let wheels roll instead.
 
 #### METAL BEAST
-When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action, and you gain proficiency with tinker’s tools.
+When you choose this circle at 3rd level, you gain proficiency with tinker’s tools.
 
 Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to
 increase your speed by 10 feet per level of the spell slot expended until the end of your current turn.
 
 #### ALL-TERRAIN FORMS
-The rites of your circle grant you the ability to transform into a variety of vehicles. Starting at 2nd level, you can use your Wild Shape to transform into a sentient vehicle with a challenge rating as high as your druid level divided by 4. For example, at 2nd level, you can transform into a vehicle with a
+The rites of your circle grant you the ability to transform into a variety of vehicles. Starting at 3rd level, you can use your Wild Shape to transform into a sentient vehicle with a challenge rating as high as your druid level divided by 4. For example, at 3rd level, you can transform into a vehicle with a
 challenge rating of 1/2, such as a motorcycle or jet ski.
 
 When you transform, your vehicle form can have a melee weapon mount installed (you choose the type), per the

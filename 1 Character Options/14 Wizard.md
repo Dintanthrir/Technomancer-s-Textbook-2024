@@ -4,13 +4,13 @@ The internet is a vast sea of data, a digital world, a plane of electricity and 
 Technomancers make incredible hackers, their bodies becoming naturally compatible with machines and networks. In a civilization that has come to rely heavily on technology, gadgets, and constant connection, it’s difficult to comprehend the potential power that a technomancer can wield.
 
 #### DATAMIND
-At 2nd level, your mind can interface with machines. You gain proficiency with hacking tools and immediately gain the benefits of having the hacking tools augment installed without requiring surgery or counting against your total number of augments installed, as well as the benefits of a datajack. Instead of a physical port, you can open a magical port on your body to accept connections from universal cables.
+At 3rd level, your mind can interface with machines. You gain proficiency with hacking tools and immediately gain the benefits of having the hacking tools augment installed without requiring surgery or counting against your total number of augments installed, as well as the benefits of a datajack. Instead of a physical port, you can open a magical port on your body to accept connections from universal cables.
 
 #### ARCANE STORAGE
-Starting at 2nd level, your spellbook can be a data drive, a smartphone, or another similar machine with data storage. The cost of material components required for copying a spell into your spellbook represents magical software and licensing fees. You can make a backup copy of your spellbook over the course of a long rest for no cost. If you do so again, your previous backup disappears.
+Starting at 3rd level, your spellbook can be a data drive, a smartphone, or another similar machine with data storage. The cost of material components required for copying a spell into your spellbook represents magical software and licensing fees. You can make a backup copy of your spellbook over the course of a long rest for no cost. If you do so again, your previous backup disappears.
 
 #### TECHNOMANCY
-Also at 2nd level, you learn programs that can command machines and affect the world around you.
+Also at 3rd level, you learn programs that can command machines and affect the world around you.
 
 **Programs.** You learn three programs of your choice, which are detailed under “Programs” below. You learn one additional program of your choice at 6th, 10th, and 14th level.
 

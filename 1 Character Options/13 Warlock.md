@@ -8,21 +8,20 @@ Be anything, except boring.
 The Fandom lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 #### FANBASE EXPANDED SPELLS
-| SPELL LEVEL | SPELLS                         |
-|:-----------:|:-------------------------------|
-| 1st         | guiding bolt, hideous laughter |
-| 2nd         | enhance ability, mind spike    |
-| 3rd         | catnap, spirit guardians       |
-| 4th         | compulsion, resilient sphere   |
-| 5th         | dominate person, modify memory |
+| SPELL LEVEL | SPELLS                                                      |
+|:-----------:|:------------------------------------------------------------|
+| 2nd         | guiding bolt, hideous laughter, enhance ability, mind spike |
+| 3rd         | catnap, spirit guardians                                    |
+| 4th         | compulsion, resilient sphere                                |
+| 5th         | dominate person, modify memory                              |
 
 #### ALWAYS ONLINE
-Starting at 1st level, you gain the benefits of having a sense-log augment installed without requiring surgery or counting against your total number of augments installed. The data you record can be magically uploaded in real-time to the internet and broadcasted online to viewers on your streaming platform of choice.
+Starting at 3rd level, you gain the benefits of having a sense-log augment installed without requiring surgery or counting against your total number of augments installed. The data you record can be magically uploaded in real-time to the internet and broadcasted online to viewers on your streaming platform of choice.
 
 Additionally, you learn the vicious mockery cantrip. It counts as a warlock cantrip for you, but it doesn’t count against your number of cantrips known.
 
 #### FANDOM’S FAVOR
-At 1st level, you can attempt to sway your fickle fandom into granting you aid. As a bonus action, you can choose a Favor from the Fandom’s Favor table. Make a Charisma (Deception), Charisma (Performance), or Charisma (Persuasion) check against the Favor’s DC. On a successful check, the effects of that Favor occur.
+At 3rd level, you can attempt to sway your fickle fandom into granting you aid. As a bonus action, you can choose a Favor from the Fandom’s Favor table. Make a Charisma (Deception), Charisma (Performance), or Charisma (Persuasion) check against the Favor’s DC. On a successful check, the effects of that Favor occur.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once). You regain all
 expended uses when you finish a long rest.

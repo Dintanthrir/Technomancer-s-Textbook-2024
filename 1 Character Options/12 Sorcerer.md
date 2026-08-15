@@ -2,22 +2,21 @@
 The atom is the building block of the universe. Locked inside is a limitless font of power, waiting to be unleashed. Many who have bathed in the deadly embrace of radiation have crumbled, but some select few of the survivors may find themselves irrevocably altered. A sorcerer tainted by radiation can become a nuclear powerhouse, so long as they can avoid melting down.
 
 #### RADIOACTIVE
-At 1st level, your inner glow grants you an internal powerhouse from which to draw magic. You gain resistance
+At 3rd level, your inner glow grants you an internal powerhouse from which to draw magic. You gain resistance
 to radiant damage, advantage on saving throws against being irradiated, and you learn the Light cantrip if you don’t already know it.
 
 In addition, you learn an additional spell when you reach certain levels in this class, as shown in the Nuclear Spells table. The spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know.
 
 #### NUCLEAR SPELLS
-| SORCERER LEVEL | SPELLS              |
-|:--------------:|:--------------------|
-| 1st            | faerie fire         |
-| 3rd            | ray of enfeeblement |
-| 5th            | fireball            |
-| 7th            | sickening radiance  |
-| 9th            | antilife shell      |
+| SORCERER LEVEL | SPELLS                           |
+|:--------------:|:---------------------------------|
+| 3rd            | faerie fire, ray of enfeeblement |
+| 5th            | fireball                         |
+| 7th            | sickening radiance               |
+| 9th            | antilife shell                   |
 
 #### REACTOR
-Starting at 1st level, you can harness your atomic energy to expand your magical influence. When you cast a sorcerer spell that creates an effect in a cone, a sphere, or a cube, you can choose to increase the size of the effect by 5 feet. For example, when the fireball spell affects a 20-foot radius sphere, you can increase it to a 25-foot radius sphere.
+Starting at 3rd level, you can harness your atomic energy to expand your magical influence. When you cast a sorcerer spell that creates an effect in a cone, a sphere, or a cube, you can choose to increase the size of the effect by 5 feet. For example, when the fireball spell affects a 20-foot radius sphere, you can increase it to a 25-foot radius sphere.
 
 At 14th level, you can increase the size of the effect by 10
 feet.

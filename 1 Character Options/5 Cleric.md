@@ -4,19 +4,18 @@ The gods of commerce oversee the trade of goods and services. These deities unde
 Clerics of these gods put great stock in the open market and the true value of all things. A cleric’s station may range from the lowly accountant with dreams of starting their own business, to a ruthless mid-level executive looking to climb the ranks into the executive boardroom, or perhaps they're a rogue economist trying to bring balance to the commercial world.
 
 #### COMMERCE DOMAIN SPELLS
-| CLERIC LEVEL | SPELLS                                |
-|:------------:|:--------------------------------------|
-| 1st          | alarm, charm person                   |
-| 3rd          | locate object, zone of truth          |
-| 5th          | contract, counterspell                |
-| 7th          | banishment, dimension door            |
-| 9th          | dominate person, teleportation circle |
+| CLERIC LEVEL | SPELLS                                                     |
+|:------------:|:-----------------------------------------------------------|
+| 3rd          | alarm, charm person, locate object, zone of truth          |
+| 5th          | contract, counterspell                                     |
+| 7th          | banishment, dimension door                                 |
+| 9th          | dominate person, teleportation circle                      |
 
 #### BONUS PROFICIENCIES
-When you choose this domain at 1st level, you gain proficiency with one type of artisan’s tools of your choice, and in one of the following skills: Deception, History, or Persuasion.
+When you choose this domain at 3rd level, you gain proficiency with one type of artisan’s tools of your choice, and in one of the following skills: Deception, History, or Persuasion.
 
 #### AGGRESSIVE BARGAINING
-At 1st level, you can trade a bit of vital energy in order to twist fate. As a reaction, when you or a willing creature within 30 feet of you makes an attack roll, an ability check, or a saving throw, you and the willing creature can each choose to spend Hit Dice, up to a combined maximum of 4 Hit Dice. For each Hit Dice spent in this manner, the target adds 1d4 to the result. You can only use this ability after the roll, but before any effects of the roll are applied.
+At 3rd level, you can trade a bit of vital energy in order to twist fate. As a reaction, when you or a willing creature within 30 feet of you makes an attack roll, an ability check, or a saving throw, you and the willing creature can each choose to spend Hit Dice, up to a combined maximum of 4 Hit Dice. For each Hit Dice spent in this manner, the target adds 1d4 to the result. You can only use this ability after the roll, but before any effects of the roll are applied.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
@@ -24,7 +23,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 > As a reminder, you only regain health when spending Hit Dice at the end of a short rest unless a feature or item specifically states otherwise.
 
 #### CHANNEL DIVINITY: MEDIATION
-Starting at 2nd level, you can use your Channel Divinity to exchange vital energy in a way that is profitable and beneficial for all.
+Starting at 3rd level, you can use your Channel Divinity to exchange vital energy in a way that is profitable and beneficial for all.
 As an action, you present your holy symbol, choose up to six willing creatures (which can include yourself) within 30 feet of you. Each creature can spend one or more Hit Dice to cause one other creature affected by this Channel Divinity to regain an equal amount of spent Hit Dice.
 
 Additionally, until the end of your next turn, each creature can spend a hit die on its turn (no action required) if it is not incapacitated. The creature rolls the Hit Dice and regains hit points equal to the die roll + the creature’s Constitution modifier + your cleric level.
