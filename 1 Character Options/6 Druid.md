@@ -13,12 +13,11 @@ Additionally, while you are transformed by Wild Shape, you can use a bonus actio
 increase your speed by 10 feet per level of the spell slot expended until the end of your current turn.
 
 #### ALL-TERRAIN FORMS
-The rites of your circle grant you the ability to transform into a variety of vehicles. Starting at 3rd level, you can use your Wild Shape to transform into a sentient vehicle with a challenge rating as high as your druid level divided by 4. For example, at 3rd level, you can transform into a vehicle with a
-challenge rating of 1/2, such as a motorcycle or jet ski.
+The rites of your circle grant you the ability to transform into a variety of vehicles. Starting at 3rd level, your known forms can include vehicles with a challenge rating as high as your druid level divided by 4. For example, at 3rd level, you can transform into a vehicle with a challenge rating of 1/2, such as a motorcycle or jet ski.
 
 When you transform, your vehicle form can have a melee weapon mount installed (you choose the type), per the
 vehicle modification (see Chapter 4). You can use your proficiency bonus instead of the vehicle's when making
-attacks with this weapon. You don't gain any of the vehicle's immunity to conditions.
+attacks with this weapon. You don't gain any of the vehicle's immunity to conditions. Your vehicle form is a sentient vehicle.
 
 You ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there. All creatures are treated as the same size as you for the purposes of determining crashing damage. The DC for the Dexterity save to avoid being crashed into by you is equal to your spell save DC. If your form has an explosion effect when you are reduced to 0 hit points, you are not damaged by your explosion.
 
