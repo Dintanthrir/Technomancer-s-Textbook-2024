@@ -21,7 +21,6 @@ When you adopt this specialization at 3rd level, you gain proficiency with elect
 #### BATTLE MECH
 At 3rd level, your knowledge of arcane mechanics has allowed you to develop a sophisticated mechanical suit that you pilot into battle. Over the course of a long rest, you can use your tinker’s tools to create a battle mech, which functions as a magical suit of medium armor. The armor weighs 200 pounds, which you can ignore while you wear it.
 
-The armor can be the target of one of your artificer infusions.
 You gain the following benefits while wearing the battle mech:
 - When you attack with a weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
 - You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
