@@ -6,8 +6,9 @@ More cunning than one might give them credit for, the Street Savage is adept at 
 #### WALKING TANK
 Starting when you choose this path at 3rd level, you can leverage your ferocious strength and rage into your firearms. You gain the following benefits:
 - When you attack with a two-handed firearm, you can use your Strength modifier instead of your Dexterity modifier for the attack roll.
-- Where your Barbarian features apply to melee weapon attacks, they now also apply to ranged weapon attacks
-with two-handed firearms.
+
+#### FIREARM MASTERY
+At 3rd level, when you select a weapon for the Weapon Mastery feature you can select a Simple or Martial Firearm instead of a Simple or Martial Melee weapon.
 
 #### SAVAGE ACCESSORIES
 At 3rd level, you can modify your firearms to be more useful in brutal combat. You gain proficiency with tinker’s tools and land or water vehicles (your choice). If you already have either of these proficiencies, you instead gain proficiency with one other type of artisan's tools of your choice.
