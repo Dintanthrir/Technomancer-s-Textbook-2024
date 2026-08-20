@@ -91,7 +91,7 @@ A sentient vehicle must be willing in order for a driver to control it. Otherwis
 
 Sentient vehicles are explored more thoroughly in Appendix B.
 
-### ADDITIONAL RULESADDITIONAL RULES
+### ADDITIONAL RULES
 The following rules are additional points of reference for DMs and players about miscellaneous activity and details involving vehicles. As always, the DM can adjust or replace these rules to better fit their setting or campaign.
 
 #### JUMPING FROM A MOVING VEHICLE
