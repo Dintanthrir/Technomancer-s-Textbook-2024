@@ -31,6 +31,11 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 **Ambitious Strike.** You can use your Channel Divinity to gamble on a powerful blow. When you would hit with a weapon attack, you can instead use your Channel Divinity to make the attack again, ignoring advantage and disadvantage on the roll. If the attack still hits, it is a critical hit.
 
+#### MECHANICAL STEED
+Beginning at 5th level you always have the _Find Ride_ spell prepared.
+
+You can cast either _Find Steed_ or _Find Ride_ once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.
+
 #### AURA OF PROGRESS
 Beginning at 7th level, you inspire alacrity in yourself and your allies. Creatures of your choice that move within 10 feet of you or start their turn there can Dash as a bonus action until the end of their turn.
 
