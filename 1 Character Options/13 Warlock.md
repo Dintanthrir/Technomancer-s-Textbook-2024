@@ -5,9 +5,9 @@ Whether through ritual or pact, you forged this connection, and now your fate is
 Be anything, except boring.
 
 #### EXPANDED SPELL LIST
-The Fandom lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+The Fandom lets you always have certain spells ready; when you reach a Warlock level specified in the Fanbase Spells table, you thereafter always have the listed spells prepared.
 
-#### FANBASE EXPANDED SPELLS
+#### FANBASE SPELLS
 | SPELL LEVEL | SPELLS                                                      |
 |:-----------:|:------------------------------------------------------------|
 | 2nd         | guiding bolt, hideous laughter, enhance ability, mind spike |
