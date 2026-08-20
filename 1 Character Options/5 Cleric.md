@@ -34,9 +34,6 @@ As a bonus action, you can magically create a nonliving object you’ve seen bef
 
 The object vanishes after 1 hour unless you magically spend an amount of credits you’re carrying equal to its value when you use this Channel Divinity. The object cannot be used as the material component for a spell unless you spend credits for it in this manner first.
 
-#### POTENT SPELLCASTING
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
-
 #### FREE TRADE
 At 17th level, you can liquidate your vast supply of divine energy when you need it most. Once per turn, when you cast a spell on your turn that deals damage, you can expend one spell slot to deal additional damage to one target of the spell. The extra damage is 1d8 for a 1st-level spell slot, plus 1d8 for
 each spell level higher than the 1st, to a maximum of 4d8.
